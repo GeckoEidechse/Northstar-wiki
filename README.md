@@ -1,3 +1,7 @@
+# ⚠️ Repo is now superseeded by [R2Northstar/NorthstarWiki](https://github.com/R2Northstar/NorthstarWiki) ⚠️
+
+***
+
 # Northstar Wiki Repo
 
 This repo contains documentation around the [Northstar mod](https://github.com/R2Northstar).
